@@ -4,6 +4,6 @@ Hi i'm Florian BOULBES 👋
 
 ◼ I've 19 years old
 
-📚 I'm a futur student in EPITECH Toulouse
+📚 I'm a futur student at EPITECH Toulouse
 
 💖 I love video games and japanese culture (manga, music, food...) and development 

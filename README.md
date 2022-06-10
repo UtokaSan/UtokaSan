@@ -2,7 +2,7 @@
 
 <b>📌 About me :</b>
 
-◼ I've 19 years old
+◼ I've 20 years old
 
 📚 In 1st year at EPITECH Toulouse
 

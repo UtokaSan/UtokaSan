@@ -4,7 +4,7 @@
 
 ◼ I've 20 years old
 
-📚 In 1st year at EPITECH Toulouse
+📚 In 1st year at Ynov Toulouse
 
 💖 I love video games and japanese culture (manga, music, food...) and development
 

@@ -12,7 +12,7 @@
 
 <b>📫 Contact me :</b>
 
-📧 Email : florian.boulbes@epitech.eu 
+📧 Email : florian.boulbes@ynov.com
 
 💬 Discord : Utoka#3356
 

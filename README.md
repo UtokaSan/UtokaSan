@@ -19,3 +19,10 @@
 
 <img src="https://media1.giphy.com/media/xUNd9YbZxUobLqOKhW/giphy.gif?cid=ecf05e475dbxd6flmbgpelv8pxxpt3q9e2k1ntk10sv6tiw2&rid=giphy.gif&ct=g">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UtokaSan&theme=omni" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtokaSan&langs_count=8&theme=omni" />
+</a>

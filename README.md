@@ -7,6 +7,7 @@
 📚 In 1st year at Ynov Toulouse
 
 💖 I love video games and japanese culture (manga, music, food...) and development
+</br>
 はじめまして。私はフロリアンです。日本語のべんきょうへします。フランス人です。🧑
 私はまんがとアニメが好きです！📚🎥
 よろしくおねがいします。😄

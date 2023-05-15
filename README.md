@@ -2,7 +2,7 @@
 
 <b>📌 About me :</b>
 
-◼ I've 21 years old
+◼ I am 21 years old
 
 📚 In 1st year at Ynov Toulouse
 

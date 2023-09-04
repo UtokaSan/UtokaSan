@@ -4,7 +4,7 @@
 
 ◼ I am 21 years old
 
-📚 In 1st year at Ynov Toulouse
+📚 In 2nd year at Ynov Toulouse
 
 💖 I love video games and japanese culture (manga, music, food...) and development
 </br>

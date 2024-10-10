@@ -4,6 +4,8 @@
 
 ◼ I am 22 years old
 
+💻 I'm student at 42 School
+
 💖 I love video games and japanese culture (manga, music, food...) and development
 </br>
 

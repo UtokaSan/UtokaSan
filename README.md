@@ -4,7 +4,7 @@
 
 - 🔭 Je travaille actuellement sur **libft**
 - 🌱 J'apprends actuellement **C et le développement Web**
-- 💬 Demandez-moi à propos de **jeux vidéo et culture japonaise (manga, musique, nourriture...)**
+- ❤️ j'aime les **jeux vidéo et culture japonaise (manga, musique, nourriture...)**
 - 📫 Comment me joindre : **fboulbes@student.42perpignan.fr**
 
 ### Connectez-vous avec moi :

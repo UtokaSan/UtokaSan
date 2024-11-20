@@ -2,7 +2,7 @@
 
 ## Je suis étudiant à l'École 42
 
-- 🔭 Je travaille actuellement sur **ft_printf**
+- 🔭 Je travaille actuellement sur **get_next_line**
 - 🌱 J'apprends actuellement **C et le développement Web**
 - ❤️ j'aime les **jeux vidéo et culture japonaise (manga, musique, nourriture...)**
 - 📫 Comment me joindre : **fboulbes@student.42perpignan.fr**

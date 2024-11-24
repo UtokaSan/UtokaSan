@@ -33,8 +33,6 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=utokasan&show_icons=true&locale=fr)
 
-[![fboulbes's 42 stats](https://badge.mediaplus.ma/levi/fboulbes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 おはようございます、私はフロリアンです。二十歳です。フランス人です。さらに、Ｎ5の日本のレベルがあります。そして、大学の情報学部の生徒です。
 
 私はアニメとまんがが大好きです。ですから、お気に入りのあにめは『ナルト』です。さらに、日本の音楽が大好きです。

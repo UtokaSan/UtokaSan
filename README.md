@@ -1,7 +1,5 @@
 # Bonjour 👋, je suis Florian Boulbes
 
-## Je suis étudiant à l'École 42
-
 - 🔭 Je travaille actuellement sur **minitalk**
 - 🌱 J'apprends actuellement **C et le développement Web**
 - ❤️ j'aime les **jeux vidéo et culture japonaise (manga, musique, nourriture...)**

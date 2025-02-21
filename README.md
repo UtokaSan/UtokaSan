@@ -3,7 +3,7 @@
 - 🔭 Je travaille actuellement sur **minitalk**
 - 🌱 J'apprends actuellement **C et le développement Web**
 - ❤️ j'aime les **jeux vidéo et culture japonaise (manga, musique, nourriture...)**
-- 📫 Comment me joindre : **fboulbes@student.42perpignan.fr**
+- 📫 Comment me joindre : **boulbesflorian53@gmail.com**
 
 ### Connectez-vous avec moi :
 

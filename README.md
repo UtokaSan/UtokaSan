@@ -1,6 +1,6 @@
 # Bonjour 👋, je suis Florian Boulbes
 
-- 🔭 Je travaille actuellement sur **minitalk**
+- 🔭 Je travaille actuellement sur mon **portfolio**
 - 🌱 J'apprends actuellement **C et le développement Web**
 - ❤️ j'aime les **jeux vidéo et culture japonaise (manga, musique, nourriture...)**
 - 📫 Comment me joindre : **boulbesflorian53@gmail.com**
